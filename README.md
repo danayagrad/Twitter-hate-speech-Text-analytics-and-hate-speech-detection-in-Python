@@ -1,0 +1,2 @@
+# Twitter-hate-speech-Text-analytics-and-hate-speech-detection-in-Python
+Hate speech detection model were built from Crowdflower Twitter hate speech dataset.  Twitter data were clean and Random Forest, Linear Regression, SVM, Naive Bayes, and Nueral Network models were built and tested in Python. Twitter text were extracted and converted into numerical data by Posit, an data analytics tool. Occurrences of English alphabets, numbers, and special characters were extranced by the tool and used in model building.
